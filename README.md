@@ -22,5 +22,7 @@ On pourrait ensuite améliorer la précision avec le transfer learning (MobileNe
 
 ## Lancer en local
 
+` ` `
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+` ` `
