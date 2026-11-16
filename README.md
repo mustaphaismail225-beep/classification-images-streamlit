@@ -4,7 +4,7 @@
 
 ## Capture d'écran
 
-![Capture de l'application](capture.png)
+[Capture de l'application](capture.PNG)
 
 ## Explication
 
